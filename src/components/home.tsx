@@ -61,10 +61,10 @@ const HomePage = () => {
       description:
         "Designed a text-based Bank Management System in Python using OOP principles (encapsulation, abstraction, modularity). Features include secure account creation, login, deposits, withdrawals, and balance checks with input validation and error handling.",
       image:
-        "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80",
-      technologies: ["Python", "Django", "SQLite", "HTML", "CSS", "JavaScript"],
+        "https://i.postimg.cc/3xMnssYx/Flux-Dev-Design-a-sleek-modern-4-K-dashboard-interface-for-a-Ba-2.jpg",
+      technologies: ["Python", "Django", "SQLite", "HTML", "CSS", "JavaScript", "React"],
       demoLink: "https://bank-management-system-chi.vercel.app/",
-      repoLink: "https://github.com/example/project",
+      repoLink: "https://github.com/buswajeetdas98/Bank-Management-System.git",
     },
     {
       id: 2,
