@@ -63,7 +63,7 @@ const HomePage = () => {
       image:
         "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80",
       technologies: ["Python", "Django", "SQLite", "HTML", "CSS", "JavaScript"],
-      demoLink: "https://example.com/demo",
+      demoLink: "https://bank-management-system-chi.vercel.app/",
       repoLink: "https://github.com/example/project",
     },
     {
