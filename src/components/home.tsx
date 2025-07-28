@@ -73,9 +73,9 @@ const HomePage = () => {
         "Developed a Python-based medicine store system (Germany Meds) using OOP and SQLite. Features include inventory management, real-time billing, Euro (EUR) pricing, and automatic stock updates to simulate real-world pharmacy operations.",
       image:
         "https://i.postimg.cc/gcX9YDwj/p.jpg",
-      technologies: ["Python", "Django", "SQLite", "HTML", "CSS", "JavaScript"],
-      demoLink: "https://example.com/demo",
-      repoLink: "https://github.com/example/project",
+      technologies: ["Python", "Django", "SQLite", "HTML", "CSS", "JavaScript","React"],
+      demoLink: "https://germany-meds.vercel.app/",
+      repoLink: "https://github.com/buswajeetdas98/Bank-Management-System.git",
     },
     {
       id: 3,
