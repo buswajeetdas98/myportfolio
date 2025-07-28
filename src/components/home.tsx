@@ -57,7 +57,7 @@ const HomePage = () => {
   const projects = [
     {
       id: 1,
-      title: "Bank Management System",
+      title: "Bank Management System (NexBank)",
       description:
         "Designed a text-based Bank Management System in Python using OOP principles (encapsulation, abstraction, modularity). Features include secure account creation, login, deposits, withdrawals, and balance checks with input validation and error handling.",
       image:
